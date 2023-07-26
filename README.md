@@ -57,7 +57,7 @@ Deploy the app using the following command:
 npm run deploy
 ```
 
-The app will be deployed to the GitHub Pages URL specified in the `homepage` field.
+The app will be deployed to the GitHub Pages URL specified in the `(https://GayathriCodes2.github.io/GUEST-ROOM-APPLICATION)`.
 
 ### Accessing the Admin Page
 
