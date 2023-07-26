@@ -62,7 +62,7 @@ npm install gh-pages --save-dev
 ```json
 "homepage": " https://github.com/GayathriCodes2/GUEST-ROOM-APPLICATION.git",
 "scripts": {
-  "predeploy": "npm run build",
+  "build": "react-scripts build",
   "deploy": "gh-pages -d build"
 }
 ```
