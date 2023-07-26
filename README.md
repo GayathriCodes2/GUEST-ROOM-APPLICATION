@@ -57,17 +57,7 @@ You can deploy the app to a hosting service of your choice. For example, to depl
 npm install gh-pages --save-dev
 ```
 
-2. Update the `package.json` file with the homepage and predeploy and deploy scripts:
-
-```json
-"homepage": " https://github.com/GayathriCodes2/GUEST-ROOM-APPLICATION.git",
-"scripts": {
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
-}
-```
-
-3. Deploy the app using the following command:
+2. Deploy the app using the following command:
 
 ```bash
 npm run deploy
