@@ -2,7 +2,7 @@
   "name": "cartrabbit",
   "version": "0.1.0",
   "private": true,
-  "homepage": " https://GayathriCodes2.github.io/GUEST-ROOM-APPLICATION",
+  "homepage": "https://GayathriCodes2.github.io/GUEST-ROOM-APPLICATION",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
