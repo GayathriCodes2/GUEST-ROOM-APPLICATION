@@ -51,13 +51,7 @@ This will create an optimized production build in the `build` directory.
 
 You can deploy the app to a hosting service of your choice. For example, to deploy on GitHub Pages, you can use the `gh-pages` package:
 
-1. Install the `gh-pages` package as a dev dependency:
-
-```bash
-npm install gh-pages --save-dev
-```
-
-2. Deploy the app using the following command:
+Deploy the app using the following command:
 
 ```bash
 npm run deploy
